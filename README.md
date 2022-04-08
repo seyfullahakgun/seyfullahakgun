@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @seyfullahakgun
+- 🏫 I'm student at Bogazici University
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Java Basics
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me seyfullah.akgn@gmail.com
 
 <!---
