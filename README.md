@@ -6,8 +6,8 @@
 - 👋 Hi, I’m @seyfullahakgun
 - 🏫 I'm student at Bogazici University
 - 👀 I’m interested in Web Development
-- 💻 I'm proficient in Java, Python and React.JS
-- 🌱 I’m currently learning .Net Technologies
+- 💻 I'm proficient in JavaScript
+- 🌱 I’m currently working at bestERA IT Consulting Comp.
 - 📫 How to reach me seyfullah.akgn@gmail.com
 
 <!---
