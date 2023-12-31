@@ -1,14 +1,11 @@
-![boun](https://user-images.githubusercontent.com/81971228/162339376-c6bcbc0d-9167-4185-822c-a026a9c25cc4.jpg)
-<br>
+
+![Software](https://github.com/seyfullahakgun/seyfullahakgun/assets/81971228/93714b34-0105-47e3-aacb-345611621ddb)
 <h1>Seyfullah Akgün</h1>
 
-
 - 👋 Hi, I’m @seyfullahakgun
-- 🏫 I'm student at Bogazici University
-- 👀 I’m interested in Web Development
-- 💻 I'm proficient in JavaScript
-- 🌱 I’m currently working at bestERA IT Consulting Comp.
-- 📫 How to reach me seyfullah.akgn@gmail.com
+- 👀 I’m interested in Software Development
+- 💻 I'm proficient in JavaScript Frameworks
+- 📫 How to reach me iletisim@seyfullahakgun.com
 
 <!---
 seyfullahakgun/seyfullahakgun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
